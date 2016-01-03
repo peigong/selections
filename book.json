@@ -3,6 +3,8 @@
     "generator": "site",
     "title": null,
     "description": null,
+    "isbn": "zh-hans",
+    "language": "zh-hans",
     "extension": null,
     "github": null,
     "githubHost": "https://github.com/",
@@ -16,7 +18,6 @@
     },
     "links": {
         "sidebar": {
-            "Custom link name": "https://customlink.com"
         },
         "sharing": {
             "google": null,
@@ -27,7 +28,9 @@
         }
     },
     "pdf": {
-        "toc": true,
+        "toc": false,
+        "footerTemplate": null,
+        "headerTemplate": null,
         "pageNumbers": true,
         "fontSize": 14,
         "paperSize": "b5",
