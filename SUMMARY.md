@@ -80,7 +80,7 @@
 * 宋一如
     * [金色的鱼钩](song-yi-ru/jin-se-de-yu-gou.md)
     * [一件令人感动的事](song-yi-ru/yi-jian-ling-ren-gan-dong-de-shi.md)
-* 吴惠欣
+* 吴惠馨
     * [丰富多彩的假期生活](wu-hui-xin/feng-fu-duo-cai-de-jia-qi-sheng-huo.md)
     * [祖国在我心中](wu-hui-xin/zu-guo-zai-wo-xin-zhong.md)
 * 张嘉乐
