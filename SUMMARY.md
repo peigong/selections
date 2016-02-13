@@ -14,7 +14,7 @@
     * [草船借箭](li-han-chao/cao-chuan-jie-jian.md)
     * [一件有趣的事](li-han-chao/yi-jian-you-qu-de-shi.md)
 * 刘若男 
-    * [冬日的一片暖阳](liu-ruo-nan/dong-ri-yi-pian-nuan-yang.md)
+    * [冬日的一片暖阳](liu-ruo-nan/dong-ri-de-yi-pian-nuan-yang.md)
     * [美丽的千岛湖](liu-ruo-nan/mei-li-de-qian-dao-hu.md)
 * 李宗廷
     * [森林的守护者](li-zong-ting/sen-lin-de-shou-hu-zhe.md)
