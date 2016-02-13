@@ -20,7 +20,7 @@
     * [森林的守护者](li-zong-ting/sen-lin-de-shou-hu-zhe.md)
     * [远亲不如近邻](li-zong-ting/yuan-qin-bu-ru-jin-lin.md)
 * 孙宇航
-    * [青岛的海](sun-yu-hang/qin-dao-de-hai.md)
+    * [青岛的海](sun-yu-hang/qing-dao-de-hai.md)
     * [雪中屹立的身影](sun-yu-hang/xue-zhong-yi-li-de-shen-ying.md)
 * 王立臣
     * [看不见的虫子](wang-li-chen/kan-bu-jian-de-chong-zi.md)
@@ -99,6 +99,6 @@
     * [草船借箭](zhu-yu-liang/cao-chuan-jie-jian.md)
     * [给山区小伙伴写一封信](zhu-yu-liang/gei-shan-qu-xiao-huo-ban-xie-yi-feng-xin.md)
 * 朱云鹏
-    * [丰富多彩的假期生活](zhu-yun-peng/feng-fu-duo-cai-de-jia-qi-sheng-huo.md)
+    * [丰富多彩的暑假生活](zhu-yun-peng/feng-fu-duo-cai-de-shu-jia-sheng-huo.md)
     * [家园之战](zhu-yun-peng/jia-yuan-zhi-zhan.md)
     
