@@ -101,4 +101,12 @@
 * 朱云鹏
     * [丰富多彩的暑假生活](zhu-yun-peng/feng-fu-duo-cai-de-shu-jia-sheng-huo.md)
     * [家园之战](zhu-yun-peng/jia-yuan-zhi-zhan.md)
-    
+* 安志荣
+    * [“保姆狗”小白](an-zhi-rong/bao-mu-gou-xiao-bai.md)
+    * [我爱古筝](an-zhi-rong/wo-ai-gu-zheng.md) 
+* 张逸明
+    * [至今难忘的那个微笑](zhang-yi-ming/zhi-jin-nan-wang-de-na-ge-wei-xiao.md)
+    * [小鸟侦探](zhang-yi-ming/xiao-niao-zhen-tan.md) 
+* 邓翌聪
+    * [一件趣事](deng-yi-cong/yi-jian-qu-shi.md)
+    * [感动](deng-yi-cong/gan-dong.md)  
