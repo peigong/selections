@@ -1,6 +1,6 @@
  # 目录 #
 
-* 安志荣
+* 安治蓉
     * [“保姆狗”小白](an-zhi-rong/bao-mu-gou-xiao-bai.md)
     * [我爱古筝](an-zhi-rong/wo-ai-gu-zheng.md) 
 * 蔡佳妮
@@ -22,7 +22,7 @@
 * 付文可
     * [那一刻的竞争](fu-wen-ke/na-yi-ke-de-jing-zheng.md)
     * [我熟悉的一个人](fu-wen-ke/wo-shu-xi-de-yi-ge-ren.md)
-* 果佳琪
+* 果佳琦
     * [给山区小朋友的一封信](guo-jia-qi/gei-shan-qu-xiao-peng-you-de-yi-feng-xin.md)
     * [我熟悉的一个人](guo-jia-qi/wo-shu-xi-de-yi-ge-ren.md)
 * 郭玙瓯
@@ -43,7 +43,7 @@
     * [一把斧头，一片森林](li-han-chao/yi-ba-fu-tou yi-pian-sen-lin.md)
     * [草船借箭](li-han-chao/cao-chuan-jie-jian.md)
     * [一件有趣的事](li-han-chao/yi-jian-you-qu-de-shi.md)
-* 李浩宇
+* 李皓宇
     * [身边的艺术](li-hao-yu/shen-bian-de-yi-shu.md)
     * [我的小乌龟](li-hao-yu/wo-de-xiao-wu-gui.md)
 * 刘若男 
