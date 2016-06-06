@@ -173,18 +173,35 @@ body {
 	font-size:1em
 }
 .page .section code,.page .section pre {
+	background:#ffffff;
+	color:#000;
+	font-family: 微软雅黑,宋体;
+    line-height: 200%;
+	text-align: right;
+	/*
 	font-family:Consolas,"Liberation Mono",Menlo,Courier,monospace;
 	direction:ltr;
 	border:none
+	*/
 }
 .page .section pre {
+	/*
 	overflow:auto;
 	word-wrap:normal;
 	margin:0 0 1.2em;
 	padding:.85em 1em;
 	background:#f7f7f7
+	*/
 }
 .page .section pre>code {
+	white-space: pre;
+	background-color:#ffffff;
+	layer-background-color:#ffffff;
+	color:#000;
+	font-family: 微软雅黑,宋体;
+    line-height: 200%;
+	font-size:1em;
+	/*
 	display:inline;
 	max-width:initial;
 	padding:0;
@@ -193,20 +210,27 @@ body {
 	line-height:inherit;
 	font-size:.85em;
 	white-space:pre;
-	background:0 0
+	background:0 0;
+	*/
 }
 .page .section pre>code:after,.page .section pre>code:before {
+	/*
 	content:normal
+	*/
 }
 .page .section code {
+	/*
 	padding:.2em;
 	margin:0;
 	font-size:.85em;
 	background-color:#f7f7f7
+	*/
 }
 .page .section code:after,.page .section code:before {
+	/*
 	letter-spacing:-.2em;
 	content:"\00a0"
+	*/
 }
 .page .section table {
 	display:table;
@@ -239,10 +263,19 @@ body {
 	list-style-type:lower-roman
 }
 .page .section blockquote {
+	/*
 	margin:0;
 	padding:0 15px;
 	color:#858585;
 	border-left:4px solid #e5e5e5
+	*/
+	margin:0;
+	padding:0;
+	color:#000;
+	border-left:0;
+}
+.page .section blockquote p {
+	text-indent: 0;
 }
 .page .section blockquote:first-child {
 	margin-top:0
