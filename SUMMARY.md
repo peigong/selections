@@ -26,7 +26,7 @@
     * [给山区小朋友的一封信](guo-jia-qi/gei-shan-qu-xiao-peng-you-de-yi-feng-xin.md)
     * [我熟悉的一个人](guo-jia-qi/wo-shu-xi-de-yi-ge-ren.md)
 * 郭玙瓯
-    * [我熟悉的一个人](guo-yu-ou/wo-shu-xi-de-yi-ge-ren.md)
+    * [我熟悉的一个人@2](guo-yu-ou/wo-shu-xi-de-yi-ge-ren.md)
     * [一件令人感动的事](guo-yu-ou/yi-jian-ling-ren-gan-dong-de-shi.md)
 * 贺嘉明
     * [给山区小伙伴的一封信](he-jia-ming/gei-shan-qu-xiao-huo-ban-de-yi-feng-xin.md)
@@ -68,10 +68,10 @@
     * [青岛的海](sun-yu-hang/qing-dao-de-hai.md)
     * [雪中屹立的身影](sun-yu-hang/xue-zhong-yi-li-de-shen-ying.md)
 * 王立臣
-    * [看不见的虫子](wang-li-chen/kan-bu-jian-de-chong-zi.md)
+    * [看不见的虫子@2](wang-li-chen/kan-bu-jian-de-chong-zi.md)
     * [珍贵的伞](wang-li-chen/zhen-gui-de-san.md)
 * 王雅琳
-	* [悠悠草原情](wang-ya-lin/you-you-cao-yuan-qing.md)
+	* [悠悠草原情@2](wang-ya-lin/you-you-cao-yuan-qing.md)
 	* [伟大的发明激励我前进](wang-ya-lin/wei-da-de-fa-ming-ji-li-wo-qian-jin.md)
 * 吴惠馨
     * [丰富多彩的假期生活](wu-hui-xin/feng-fu-duo-cai-de-jia-qi-sheng-huo.md)
@@ -96,7 +96,7 @@
     * [做到最好的自己](zhang-jia-wen/zuo-dao-zui-hao-de-zi-ji.md)
 * 张诗
     * [二十年后回故乡](zhang-shi/er-shi-nian-hou-hui-gu-xiang.md)
-    * [谁说冬天没有花朵](zhang-shi/shui-shuo-dong-tian-mei-you-hua-duo.md)
+    * [谁说冬天没有花朵@2](zhang-shi/shui-shuo-dong-tian-mei-you-hua-duo.md)
 * 张逸明
     * [至今难忘的那个微笑](zhang-yi-ming/zhi-jin-nan-wang-de-na-ge-wei-xiao.md)
     * [小鸟侦探](zhang-yi-ming/xiao-niao-zhen-tan.md) 
