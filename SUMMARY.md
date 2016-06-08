@@ -10,6 +10,9 @@
 * 陈泽川
     * [科学伴我们成长](chen-ze-chuan/ke-xue-ban-wo-men-cheng-zhang.md)
     * [我熟悉的一个人](chen-ze-chuan/wo-shu-xi-de-yi-ge-ren.md)
+* 崔新翊
+    * [潜水](cui-xin-yi/qian-shui.md)
+    * [带着温暖的硬币](cui-xin-yi/dai-zhe-wen-nuan-de-ying-bi.md)
 * 戴雨欣
     * [一件令人感动的事](dai-yu-xin/yi-jian-ling-ren-gan-dong-de-shi.md)
     * [一件趣事](dai-yu-xin/yi-jian-qu-shi.md)
@@ -88,6 +91,9 @@
 * 尧磊
     * [挑战极限](yao-lei/tiao-zhan-ji-xian.md)
     * [月下抒怀](yao-lei/yue-xia-shu-huai.md)
+* 张帮庆
+    * [读《十六年前的回忆》有感](zhang-bang-qing/du-shi-liu-nian-qian-de-hui-yi-you-gan.md)
+    * [一件有趣的事](zhang-bang-qing/yi-jian-you-qu-de-shi.md)
 * 张嘉乐
     * [帮助中的美德](zhang-jia-le/bang-zhu-zhong-de-mei-de.md)
     * [丰富多彩的假期生活](zhang-jia-le/feng-fu-duo-cai-de-jia-qi-sheng-huo.md)
