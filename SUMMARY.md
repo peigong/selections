@@ -66,7 +66,7 @@
     * [身边的关爱](shi-yu-jia/shen-bian-de-guan-ai.md)
 * 宋一如
     * [金色的鱼钩](song-yi-ru/jin-se-de-yu-gou.md)
-    * [一件令人感动的事](song-yi-ru/yi-jian-ling-ren-gan-dong-de-shi.md)
+    * [一件令人感动的事@2](song-yi-ru/yi-jian-ling-ren-gan-dong-de-shi.md)
 * 孙宇航
     * [青岛的海](sun-yu-hang/qing-dao-de-hai.md)
     * [雪中屹立的身影](sun-yu-hang/xue-zhong-yi-li-de-shen-ying.md)
